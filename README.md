@@ -60,9 +60,9 @@
  ```
  1. npm install jsdoc --save-dev | -g  
  2. jsdoc xx.js
-
 ```
 # demo
+
 ```
  /**
  * 这是一个student 类
