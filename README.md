@@ -32,6 +32,9 @@
    一般不要直接复制到README.md文件中，建议把README.md需要应用的文件放到仓库中。
    加载图片的写法</br>
     **![图片加载错误的时候提示](https://github.com/richChen0815/jsDoc/blob/master/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20190621172243.jpg)**
+    
+    
+ 地址链接和图片链接相近 都是中括号加一对括弧，前者没有感叹号，后者加感叹号。
 
 
 
