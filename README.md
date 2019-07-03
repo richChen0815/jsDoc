@@ -38,6 +38,47 @@
 
 
 
+**题外话讲的有点多了，下面来总结jsDoc写法**
+
+# jsDoc 注释
+ 必须要 /** 开头，否则不能被jsDoc解析器解析
+```
+ /**
+ * 这是一个student 类
+ * @constructor
+ * @param {string} name - 学生姓名
+ * @param {string} sex  - 学生性别
+ */
+  class Student{
+    constructor(name,sex){
+      this.name = name;
+      this.sex = sex;
+    }
+    
+    /**
+    * 获取学生姓名
+    * @returns {string|*}
+    */
+    
+    getUserName(){
+      return this.name
+    }
+    
+    /**
+    * 设置学生性别
+    *  @param sex {string}
+    */
+    
+    setUserSex(sex){
+     this.sex = sex;
+    }
+  }
+```
+
+
+
+
+
 
  
 
