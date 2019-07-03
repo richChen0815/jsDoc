@@ -33,7 +33,7 @@
  [this is url link](http://baidu.com)
  
  # 5.插入图片
-   一般不要直接复制到README.md文件中，建议把README.md需要应用的文件放到仓库中。
+   一般不要直接复制到README.md文件中，建议把README.md需要应用的图片文件放到仓库中,在引用仓库地址。
    加载图片的写法</br>
    
   ```
@@ -59,7 +59,7 @@
 # jsDoc 运行
  ```
  1. npm install jsdoc --save-dev | -g  
- 2. jsdoc xx.js```
+ 2. jsdoc xx.js
 
 ```
 # demo
