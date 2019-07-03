@@ -1,2 +1,2 @@
 # jsDoc
-[js note](www.baidu.com)
+[js note](https://www.baidu.com)
