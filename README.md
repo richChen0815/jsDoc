@@ -47,7 +47,8 @@
  一般采取@符号开头
  
 # jsDoc 运行
- ```1. npm install jsdoc --save-dev | -g  </br>
+ ```
+ 1. npm install jsdoc --save-dev | -g  </br>
  2. jsdoc xx.js```
 
 ```
