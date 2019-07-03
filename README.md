@@ -47,10 +47,11 @@
  一般采取@符号开头
  
 # jsDoc 运行
- 1. npm install jsdoc --save-dev | -g 
- 2. jsdoc xx.js
+ ```1. npm install jsdoc --save-dev | -g  </br>
+ 2. jsdoc xx.js```
 
 ```
+# demo
  /**
  * 这是一个student 类
  * @constructor
