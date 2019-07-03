@@ -43,7 +43,13 @@
 # jsDoc 注释
  必须要 /** 开头，否则不能被jsDoc解析器解析。根据js注释，生成类似于接口的阅读文档。
  
-# jsDoc 注释标签  采取@符号开头
+# jsDoc 注释标签  
+ 一般采取@符号开头
+ 
+# jsDoc 运行
+ 1. npm install jsdoc --save-dev | -g 
+ 2. jsdoc xx.js
+
 ```
  /**
  * 这是一个student 类
