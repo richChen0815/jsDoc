@@ -64,6 +64,12 @@
 # demo
 
 ```
+/**
+*  @fileoverview  这是实现学生类
+*  @author 1826815765@qq.com
+*
+**/
+
  /**
  * 这是一个student 类
  * @constructor
@@ -94,6 +100,23 @@
      this.sex = sex;
     }
   }
+```
+
+# @file 
+描述一个文件。
+
+别名：
+@fileoverview | @overview
+
+
+## demo
+
+```
+/**
+*@fileoverview this is describe
+*@author 作者地址
+**/
+
 ```
 
 
