@@ -103,7 +103,7 @@
 ```
 
 # @file 
-描述一个文件。
+描述一个文件。写在文件开头。
 
 别名：
 @fileoverview | @overview
