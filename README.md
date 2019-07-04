@@ -59,7 +59,7 @@
 # jsDoc 运行
  ```
  1. npm install jsdoc --save-dev | -g  
- 2. jsdoc xx.js
+ 2. jsdoc ./**/*.js -d ./doc/jsdoc  -d 指定目录
 ```
 # demo
 
